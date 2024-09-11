@@ -1,6 +1,6 @@
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusnauhan&theme=midnight-purple&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusnauhan&layout=compact&theme=midnight-purple&show_icons=true)
+  <img width="49%" height="195px" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusnauhan&theme=midnight-purple&show_icons=true)" /> 
+  <img width="41%" height="195px" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusnauhan&layout=compact&theme=midnight-purple&show_icons=true)" /> 
 </div> <br>
 
 
